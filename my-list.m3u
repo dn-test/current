@@ -4,7 +4,7 @@ http://server.sibfungold.info:8080/ahmed/ahmed123/52721
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="5" channel-id="5" group-title="Comedy",Comedy Central
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="6" channel-id="6" group-title="Comedy",TBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+http://ariaccess.com:80/ArisGladio/PartnerGladio/92093
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" tvg-chno="7" channel-id="7" group-title="Entertainment",5USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="8" channel-id="8" group-title="Entertainment",ABC FAMILYSPARK
@@ -27,7 +27,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://ariaccess.com:80/ArisGladio/PartnerGladio/91949
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" tvg-chno="54" channel-id="54" group-title="Entertainment",American Heroes Channel
 http://ariaccess.com:80/ArisGladio/PartnerGladio/76945
-#EXTINF:-1 tvg-id="PBSWGCU.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="28" channel-id="28" group-title="Kids",PBS
+#EXTINF:-1 tvg-id="KCET.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="28" channel-id="28" group-title="Entertainment",PBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" tvg-chno="47" channel-id="47" group-title="Kids",Discovery Family
 http://ariaccess.com:80/ArisGladio/PartnerGladio/92019
@@ -48,7 +48,7 @@ http://ariaccess.com:80/ArisGladio/PartnerGladio/77022
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="12" channel-id="12" group-title="Movies",COMET
 http://ariaccess.com:80/ArisGladio/PartnerGladio/92008
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://static.epg.best/us/FX.us.png" tvg-chno="13" channel-id="13" group-title="Movies",FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+http://ariaccess.com:80/ArisGladio/PartnerGladio/92031
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXM" tvg-logo="https://static.epg.best/us/FXMovieChannel.us.png" tvg-chno="14" channel-id="14" group-title="Movies",FXM
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" tvg-chno="15" channel-id="15" group-title="Movies",FXX
