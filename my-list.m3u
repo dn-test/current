@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://epg.best/1a6ef-80te9d.xml.gz" x-tvg-url="https://epg.best/1a6ef-80te9d.xml.gz"
 #EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="4" channel-id="4" group-title="Comedy",Adult Swim
-http://152.89.62.111:8080/magu/magu/34350
+http://185.63.254.40:80/912461531477289/840194034422592/175899
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="5" channel-id="5" group-title="Comedy",Comedy Central
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="6" channel-id="6" group-title="Comedy",TBS
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8350
+http://portal.electraservers.xyz:8000/wolkan/wolkan1/57696
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" tvg-chno="7" channel-id="7" group-title="Entertainment",5USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="8" channel-id="8" group-title="Entertainment",ABC FAMILYSPARK
