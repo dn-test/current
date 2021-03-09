@@ -11,8 +11,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/58977
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" tvg-chno="23" channel-id="23" group-title="Entertainment",SHOWTIME
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/13807
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Spike Paramount" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" tvg-chno="24" channel-id="24" group-title="Entertainment",Spike Paramount
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
 #EXTINF:-1 tvg-id="WTOG.us" tvg-name="CW" tvg-logo="https://static.epg.best/us/WPCW.us.png" tvg-chno="25" channel-id="25" group-title="Entertainment",CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="Tru TV" tvg-logo="https://static.epg.best/us/truTV.us.png" tvg-chno="26" channel-id="26" group-title="Entertainment",Tru TV
@@ -67,12 +65,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Universal Channel" tvg-logo="https://static.epg.best/mx/UniversalChannel.mx.png" tvg-chno="22" channel-id="22" group-title="Movies",Universal Channel
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/13774
-#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="ABC" tvg-logo="https://static.epg.best/us/ABCKNXV.us.png" tvg-chno="1" channel-id="1" group-title="News",ABC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
-#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="CBS" tvg-logo="https://static.epg.best/us/CBSKMOV.us.png" tvg-chno="2" channel-id="2" group-title="News",CBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
-#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="FOX" tvg-logo="https://static.epg.best/us/FOXWNYW.us.png" tvg-chno="3" channel-id="3" group-title="News",FOX
-http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/104394
 #EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="LifeTime" tvg-logo="https://static.epg.best/ca/LifetimeTV.ca.png" tvg-chno="29" channel-id="29" group-title="Sci/Tech",LifeTime
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" tvg-chno="31" channel-id="31" group-title="Sci/Tech",Smithsonian Channel
@@ -107,3 +99,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" tvg-chno="42" channel-id="42" group-title="Travel/Living",Destination America
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF:-1 tvg-id="WKOW.us" tvg-name="ABC" tvg-logo="https://static.epg.best/us/ABCKNXV.us.png" tvg-chno="1" channel-id="1" group-title="News",ABC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:-1 tvg-id="KPIX.us" tvg-name="CBS" tvg-logo="https://static.epg.best/us/CBSKMOV.us.png" tvg-chno="2" channel-id="2" group-title="News",CBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="FOX" tvg-logo="https://static.epg.best/us/FOXWNYW.us.png" tvg-chno="3" channel-id="3" group-title="News",FOX
+http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/104394
+
