@@ -41,7 +41,7 @@ http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/13819
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/13964
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax 5" tvg-logo="https://static.epg.best/us/Cinemax.us.png" tvg-chno="10" channel-id="10" group-title="Movies",Cinemax 5
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/14022
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax MoreMax" tvg-logo="https://static.epg.best/us/Cinemax.us.png" tvg-chno="11" channel-id="11" group-title="Movies",Cinemax MoreMax
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="Cinemax MoreMax" tvg-logo="https://static.epg.best/us/Cinemax.us.png" tvg-chno="11" channel-id="11" group-title="Movies",Cinemax MoreMax
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/13936
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="12" channel-id="12" group-title="Movies",COMET
 http://zaltv.ddnsco.com:8080/ztv1m97150/z8cs7/13931
