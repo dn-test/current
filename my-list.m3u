@@ -49,7 +49,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://static.epg.best/us/TNT.us.png" tvg-chno="32" channel-id="32" group-title="Movies",TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" tvg-chno="33" channel-id="33" group-title="Sci/Tech",BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" tvg-chno="33" channel-id="33" group-title="Movies",BBC America
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Channel" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" tvg-chno="34" channel-id="34" group-title="Entertainment",Paramount Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
