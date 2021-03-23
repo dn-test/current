@@ -1,108 +1,109 @@
 #EXTM3U url-tvg="https://epg.best/1a6ef-80te9d.xml.gz" x-tvg-url="https://epg.best/1a6ef-80te9d.xml.gz"
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="4" channel-id="4" group-title="Comedy",Adult Swim
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29875http://152.89.62.111:8080/m123/m123/34350
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="5" channel-id="5" group-title="Comedy",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="1" channel-id="1" group-title="Comedy",Comedy Central
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="6" channel-id="6" group-title="Comedy",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="2" channel-id="2" group-title="Comedy",TBS
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3095
-#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" tvg-chno="7" channel-id="7" group-title="Entertainment",5USA
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="3" channel-id="3" group-title="Entertainment",ABC FAMILYSPARK
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3068
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="4" channel-id="4" group-title="Comedy",Adult Swim
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29875
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="5" channel-id="5" group-title="Comedy",Adult Swim
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203617
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" tvg-chno="10" channel-id="10" group-title="Entertainment",5USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
-#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="8" channel-id="8" group-title="Entertainment",ABC FAMILYSPARK
-http://latinoamericatv.vip:3334/Yan/Yan123/16950
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" tvg-chno="23" channel-id="23" group-title="Entertainment",SHOWTIME
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" tvg-chno="11" channel-id="11" group-title="Entertainment",SHOWTIME
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81164
-#EXTINF:-1 tvg-id="WTOG.us" tvg-name="CW" tvg-logo="https://static.epg.best/us/WPCW.us.png" tvg-chno="25" channel-id="25" group-title="Entertainment",CW
+#EXTINF:-1 tvg-id="WTOG.us" tvg-name="CW" tvg-logo="https://static.epg.best/us/WPCW.us.png" tvg-chno="12" channel-id="12" group-title="Entertainment",CW
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="Tru TV" tvg-logo="https://static.epg.best/us/truTV.us.png" tvg-chno="26" channel-id="26" group-title="Entertainment",Tru TV
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3090
-#EXTINF:-1 tvg-id="FuseTV.us" tvg-name="Fuse" tvg-logo="https://static.epg.best/us/FuseTV.us.png" tvg-chno="27" channel-id="27" group-title="Entertainment",Fuse
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81086
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="FREEFORM" tvg-logo="https://static.epg.best/us/Freeform.us.png" tvg-chno="34" channel-id="34" group-title="Entertainment",FREEFORM
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="FREEFORM" tvg-logo="https://static.epg.best/us/Freeform.us.png" tvg-chno="13" channel-id="13" group-title="Entertainment",FREEFORM
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
-#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen" tvg-logo="https://static.epg.best/us/Oxygen.us.png" tvg-chno="52" channel-id="52" group-title="Entertainment",Oxygen
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
-#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://static.epg.best/us/AandE.us.png" tvg-chno="53" channel-id="53" group-title="Entertainment",A&E
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" tvg-chno="54" channel-id="54" group-title="Entertainment",American Heroes Channel
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29810
-#EXTINF:-1 tvg-id="KCET.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="28" channel-id="28" group-title="Kids",PBS
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="Tru TV" tvg-logo="https://static.epg.best/us/truTV.us.png" tvg-chno="14" channel-id="14" group-title="Entertainment",Tru TV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3090
+#EXTINF:-1 tvg-id="FuseTV.us" tvg-name="Fuse" tvg-logo="https://static.epg.best/us/FuseTV.us.png" tvg-chno="15" channel-id="15" group-title="Entertainment",Fuse
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81086
+#EXTINF:-1 tvg-id="KCET.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="16" channel-id="16" group-title="Entertainment",PBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
-#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" tvg-chno="47" channel-id="47" group-title="Kids",Discovery Family
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-chno="48" channel-id="48" group-title="Kids",Disney Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" tvg-chno="49" channel-id="49" group-title="Kids",Nickelodeon
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://static.epg.best/us/Boomerang.us.png" tvg-chno="50" channel-id="50" group-title="Kids",Boomerang
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/64364
-#EXTINF:-1 tvg-id="SDPB4PBSKids.us" tvg-name="PBS Kids" tvg-logo="https://static.epg.best/us/SDPB4PBSKids.us.png" tvg-chno="51" channel-id="51" group-title="Kids",PBS Kids
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3073
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-chno="9" channel-id="9" group-title="Movies",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-chno="17" channel-id="17" group-title="Movies",AMC
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/81045
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax 5" tvg-logo="https://static.epg.best/us/Cinemax.us.png" tvg-chno="10" channel-id="10" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax 5" tvg-logo="https://static.epg.best/us/Cinemax.us.png" tvg-chno="18" channel-id="18" group-title="Movies",Cinemax
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/64356
-#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="Cinemax MoreMax" tvg-logo="https://static.epg.best/us/MoreMax.us.png" tvg-chno="11" channel-id="11" group-title="Movies",Cinemax MoreMax
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="Cinemax MoreMax" tvg-logo="https://static.epg.best/us/MoreMax.us.png" tvg-chno="19" channel-id="19" group-title="Movies",Cinemax MoreMax
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/64354
-#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="12" channel-id="12" group-title="Movies",COMET
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="20" channel-id="20" group-title="Movies",COMET
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1181
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://static.epg.best/us/FX.us.png" tvg-chno="13" channel-id="13" group-title="Movies",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://static.epg.best/us/FX.us.png" tvg-chno="21" channel-id="21" group-title="Movies",FX
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3127
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXM" tvg-logo="https://static.epg.best/us/FXMovieChannel.us.png" tvg-chno="14" channel-id="14" group-title="Movies",FXM
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXM" tvg-logo="https://static.epg.best/us/FXMovieChannel.us.png" tvg-chno="25" channel-id="25" group-title="Movies",FXM
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" tvg-chno="15" channel-id="15" group-title="Movies",FXX
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" tvg-chno="26" channel-id="26" group-title="Movies",FXX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://static.epg.best/us/Hallmark.us.png" tvg-chno="16" channel-id="16" group-title="Movies",Hallmark
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://static.epg.best/us/Hallmark.us.png" tvg-chno="27" channel-id="27" group-title="Movies",Hallmark
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
-#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.epg.best/us/HallmarkDrama.us.png" tvg-chno="17" channel-id="17" group-title="Movies",Hallmark Drama
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.epg.best/us/HallmarkDrama.us.png" tvg-chno="28" channel-id="28" group-title="Movies",Hallmark Drama
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://static.epg.best/us/LifetimeMovies.us.png" tvg-chno="18" channel-id="18" group-title="Movies",Lifetime Movies
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://static.epg.best/us/LifetimeMovies.us.png" tvg-chno="29" channel-id="29" group-title="Movies",Lifetime Movies
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://static.epg.best/us/Syfy.us.png" tvg-chno="19" channel-id="19" group-title="Movies",SYFY
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://static.epg.best/us/Syfy.us.png" tvg-chno="30" channel-id="30" group-title="Movies",SYFY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://static.epg.best/us/SundanceTV.us.png" tvg-chno="20" channel-id="20" group-title="Movies",Sundance TV
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://static.epg.best/us/SundanceTV.us.png" tvg-chno="31" channel-id="31" group-title="Movies",Sundance TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://static.epg.best/us/TNT.us.png" tvg-chno="21" channel-id="21" group-title="Movies",TNT
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://static.epg.best/us/TNT.us.png" tvg-chno="32" channel-id="32" group-title="Movies",TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Channel" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" tvg-chno="22" channel-id="22" group-title="Entertainment",Paramount Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
-#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="ABC" tvg-logo="https://static.epg.best/us/ABCKNXV.us.png" tvg-chno="1" channel-id="1" group-title="News",ABC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
-#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="CBS" tvg-logo="https://static.epg.best/us/CBSKMOV.us.png" tvg-chno="2" channel-id="2" group-title="News",CBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
-#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="FOX" tvg-logo="https://static.epg.best/us/FOXWNYW.us.png" tvg-chno="3" channel-id="3" group-title="News",FOX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
-#EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="LifeTime" tvg-logo="https://static.epg.best/ca/LifetimeTV.ca.png" tvg-chno="29" channel-id="29" group-title="Sci/Tech",LifeTime
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" tvg-chno="32" channel-id="32" group-title="Sci/Tech",BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" tvg-chno="33" channel-id="33" group-title="Sci/Tech",BBC America
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
-#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" tvg-chno="31" channel-id="31" group-title="Sci/Tech",Smithsonian Channel
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Channel" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" tvg-chno="34" channel-id="34" group-title="Entertainment",Paramount Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" tvg-chno="40" channel-id="40" group-title="Kids",Discovery Family
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-chno="41" channel-id="41" group-title="Kids",Disney Channel
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" tvg-chno="42" channel-id="42" group-title="Kids",Nickelodeon
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://static.epg.best/us/Boomerang.us.png" tvg-chno="43" channel-id="43" group-title="Kids",Boomerang
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/64364
+#EXTINF:-1 tvg-id="SDPB4PBSKids.us" tvg-name="PBS Kids" tvg-logo="https://static.epg.best/us/SDPB4PBSKids.us.png" tvg-chno="44" channel-id="44" group-title="Kids",PBS Kids
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3073
+#EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="ABC" tvg-logo="https://static.epg.best/us/ABCKNXV.us.png" tvg-chno="50" channel-id="50" group-title="News",ABC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:-1 tvg-id="CBSKMOV.us" tvg-name="CBS" tvg-logo="https://static.epg.best/us/CBSKMOV.us.png" tvg-chno="51" channel-id="51" group-title="News",CBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-name="FOX" tvg-logo="https://static.epg.best/us/FOXWNYW.us.png" tvg-chno="52" channel-id="52" group-title="News",FOX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
+#EXTINF:-1 tvg-id="LifetimeTV.ca" tvg-name="LifeTime" tvg-logo="https://static.epg.best/ca/LifetimeTV.ca.png" tvg-chno="53" channel-id="53" group-title="Entertainment",LifeTime
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen" tvg-logo="https://static.epg.best/us/Oxygen.us.png" tvg-chno="54" channel-id="54" group-title="Entertainment",Oxygen
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://static.epg.best/us/AandE.us.png" tvg-chno="55" channel-id="55" group-title="Entertainment",A&E
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" tvg-chno="56" channel-id="56" group-title="Entertainment",American Heroes Channel
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29810
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" tvg-chno="60" channel-id="60" group-title="Sci/Tech",Smithsonian Channel
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/49043
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" tvg-chno="33" channel-id="33" group-title="Sci/Tech",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" tvg-chno="61" channel-id="61" group-title="Sci/Tech",Animal Planet
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
-#EXTINF:-1 tvg-id="DoItYourselfNetwork.us" tvg-name="DIY Network" tvg-logo="https://static.epg.best/us/DoItYourselfNetwork.us.png" tvg-chno="37" channel-id="37" group-title="Sci/Tech",DIY Network
+#EXTINF:-1 tvg-id="DoItYourselfNetwork.us" tvg-name="DIY Network" tvg-logo="https://static.epg.best/us/DoItYourselfNetwork.us.png" tvg-chno="62" channel-id="62" group-title="Sci/Tech",DIY Network
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3139
-#EXTINF:-1 tvg-id="History2.uk" tvg-name="H2" tvg-logo="https://static.epg.best/uk/History2.uk.png" tvg-chno="39" channel-id="39" group-title="Sci/Tech",H2
-http://rv.imax.re:80/4822570279/8799305052/81016
-#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" tvg-chno="40" channel-id="40" group-title="Sci/Tech",History Channel
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" tvg-logo="https://static.epg.best/us/HistoryChannel.us.png" tvg-chno="63" channel-id="63" group-title="Sci/Tech",History Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" tvg-chno="43" channel-id="43" group-title="Sci/Tech",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" tvg-chno="64" channel-id="64" group-title="Sci/Tech",Discovery Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
-#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-logo="https://static.epg.best/us/DiscoveryLife.us.png" tvg-chno="44" channel-id="44" group-title="Sci/Tech",Discovery Life
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="Discovery Life" tvg-logo="https://static.epg.best/us/DiscoveryLife.us.png" tvg-chno="65" channel-id="65" group-title="Sci/Tech",Discovery Life
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/64343
-#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/ca/DiscoveryScience.ca.png" tvg-chno="45" channel-id="45" group-title="Sci/Tech",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="Discovery Science" tvg-logo="https://static.epg.best/ca/DiscoveryScience.ca.png" tvg-chno="66" channel-id="66" group-title="Sci/Tech",Discovery Science
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3100
-#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="Discovery Velocity" tvg-logo="https://static.epg.best/ca/DiscoveryVelocity.ca.png" tvg-chno="46" channel-id="46" group-title="Sci/Tech",Discovery Velocity
+#EXTINF:-1 tvg-id="DiscoveryVelocity.ca" tvg-name="Discovery Velocity" tvg-logo="https://static.epg.best/ca/DiscoveryVelocity.ca.png" tvg-chno="67" channel-id="67" group-title="Sci/Tech",Discovery Velocity
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://static.epg.best/us/OutdoorChannel.us.png" tvg-chno="30" channel-id="30" group-title="Travel/Living",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://static.epg.best/us/OutdoorChannel.us.png" tvg-chno="70" channel-id="70" group-title="Travel/Living",Outdoor Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING Channel" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" tvg-chno="35" channel-id="35" group-title="Travel/Living",COOKING Channel
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING Channel" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" tvg-chno="71" channel-id="71" group-title="Travel/Living",COOKING Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" tvg-chno="36" channel-id="36" group-title="Travel/Living",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" tvg-chno="72" channel-id="72" group-title="Travel/Living",Food Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" tvg-chno="38" channel-id="38" group-title="Travel/Living",HGTV
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://static.epg.best/us/HGTV.us.png" tvg-chno="73" channel-id="73" group-title="Travel/Living",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" tvg-chno="41" channel-id="41" group-title="Travel/Living",Travel Channel
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" tvg-chno="74" channel-id="74" group-title="Travel/Living",Travel Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" tvg-chno="42" channel-id="42" group-title="Travel/Living",Destination America
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3144
-
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" tvg-chno="75" channel-id="75" group-title="Travel/Living",Destination America
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="H2" tvg-logo="https://static.epg.best/uk/History2.uk.png" tvg-chno="76" channel-id="76" group-title="Sci/Tech",H2
+http://rv.imax.re:80/4334276722/8502631953/81367
