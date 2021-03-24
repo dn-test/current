@@ -3,11 +3,17 @@
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="2" channel-id="2" group-title="Comedy",TBS
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3095
-#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="3" channel-id="3" group-title="Entertainment",ABC FAMILYSPARK
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="3" channel-id="3" group-title="Comedy",TBS
+http://rv.imax.re:80/4334276722/8502631953/81176
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="4" channel-id="4" group-title="Comedy",TBS
+http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16622
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="5" channel-id="5" group-title="Comedy",TBS
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403549
+#EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="9" channel-id="9" group-title="Entertainment",ABC FAMILYSPARK
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3068
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="4" channel-id="4" group-title="Comedy",Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="6" channel-id="6" group-title="Comedy",Adult Swim
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29875
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="5" channel-id="5" group-title="Comedy",Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="7" channel-id="7" group-title="Comedy",Adult Swim
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203617
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" tvg-chno="10" channel-id="10" group-title="Entertainment",5USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
