@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,TBS 1
-http://rv.imax.re:80/4334276722/8502631953/81176
-#EXTINF:-1,TBS 2
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16622
-#EXTINF:-1,TBS 3
-http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403549
