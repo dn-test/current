@@ -3,6 +3,6 @@
 
 or else
 
-https://gitcdn.link/repo/dn-test/current/main/my-list
+https://gitcdn.link/cdn/dn-test/current/main/my-list
 
 https://gitcdn.link/repo/dn-test/current/main/some-kind-of-backup.txt
