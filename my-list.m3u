@@ -59,7 +59,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" tvg-chno="33" channel-id="33" group-title="Movies",BBC America
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Channel" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" tvg-chno="34" channel-id="34" group-title="Entertainment",Paramount Channel
+#EXTINF:-1 tvg-id="ScreenPixWestern.us" tvg-name="SCREENPIX WESTERNS" tvg-logo="https://static.epg.best/us/ScreenPixWestern.us.png" tvg-chno="34" channel-id="34" group-title="Movies",SCREENPIX WESTERNS
+http://ajstreamz.xyz:8080/Constance/constance/149921
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Channel" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" tvg-chno="35" channel-id="35" group-title="Entertainment",Paramount Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/755
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png" tvg-chno="40" channel-id="40" group-title="Kids",Discovery Family
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
