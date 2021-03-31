@@ -5,6 +5,6 @@ or else
 
 https://gitcdn.link/cdn/dn-test/current/main/my-list
 
-http://gitcdn.link/repo/dn-test/current/main/DIGI-RO
+http://gitcdn.link/cdn/dn-test/current/main/DIGI-RO
 
 https://gitcdn.link/repo/dn-test/current/main/some-kind-of-backup.txt
