@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.105.180:9500/xmltv?auth=PryJKy2QZ26.NKCmETfzymVtymwo" x-tvg-url="http://192.168.105.180:9500/xmltv?auth=PryJKy2QZ26.NKCmETfzymVtymwo"#EXTINF:-1 tvg-id="1bd95ed9b7eb948f83879b1ec6bee38d" tvg-chno="25",TVR1 HD
+#EXTM3U url-tvg="http://192.168.105.180:9500/xmltv/channels?auth=PryJKy2QZ26.NKCmETfzymVtymwo" x-tvg-url="http://192.168.105.180:9500/xmltv/channels?auth=PryJKy2QZ26.NKCmETfzymVtymwo"#EXTINF:-1 tvg-id="1bd95ed9b7eb948f83879b1ec6bee38d" tvg-chno="25",TVR1 HD
 http://192.168.105.180:9500/stream/channelid/1499388187?auth=PryJKy2QZ26.NKCmETfzymVtymwo&profile=pass
 #EXTINF:-1 tvg-id="f531a7999ee78520165655f1e2f881b9" tvg-chno="32",PRO TV HD
 http://192.168.105.180:9500/stream/channelid/430387701?auth=PryJKy2QZ26.NKCmETfzymVtymwo&profile=pass
