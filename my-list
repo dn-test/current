@@ -12,11 +12,9 @@ http://152.89.62.111:8080/Duff/Duff/38865
 #EXTINF:-1 tvg-id="ABCSpark.ca" tvg-name="ABC FAMILYSPARK" tvg-logo="https://static.epg.best/ca/ABCSpark.ca.png" tvg-chno="6" channel-id="6" group-title="Entertainment",ABC FAMILYSPARK
 http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/56371
 #EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="7" channel-id="7" group-title="Comedy",Adult Swim
-http://152.89.62.111:8080/Duff/Duff/38691
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="8" channel-id="8" group-title="Comedy",Adult Swim
-http://client-proplus.com:8080/Kore/Kore/33696
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="9" channel-id="9" group-title="Comedy",Adult Swim
 http://panelvip1.com:8080/okanozbek/zhYxBbK7mU/56372
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="8" channel-id="8" group-title="Comedy",Adult Swim
+http://152.89.62.111:8080/Duff/Duff/38691
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="https://static.epg.best/uk/FiveUSA.uk.png" tvg-chno="10" channel-id="10" group-title="Entertainment",5USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOWTIME" tvg-logo="https://static.epg.best/us/Showtime.us.png" tvg-chno="11" channel-id="11" group-title="Entertainment",SHOWTIME
