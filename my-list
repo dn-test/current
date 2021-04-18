@@ -1,55 +1,57 @@
 #EXTM3U url-tvg="https://epg.best/1a6ef-80te9d.xml.gz" x-tvg-url="https://epg.best/1a6ef-80te9d.xml.gz"
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="1" channel-id="1" group-title="Favorites",Comedy Central
-http://pn.tvott.info:80/307216011400/307216011400/81060
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="2" channel-id="2" group-title="Favorites",TBS
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="1" channel-id="1",Comedy Central
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3146
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="2" channel-id="2",Comedy Central
+http://miarea.vip:8080/nena/nena/76068
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="5" channel-id="5",TBS
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3095
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="6" channel-id="6" group-title="Comedy",TBS
+http://miarea.vip:8080/nena/nena/663
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="7" channel-id="7" group-title="Comedy",TBS
 http://pn.tvott.info:80/307216011400/307216011400/81176
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="3" channel-id="3" group-title="Comedy",TBS
-http://95.214.232.251:8080/ricky123/ricky123/142013
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="4" channel-id="4" group-title="Comedy",TBS
-http://pulsestreamstv.uk:8080/tyler12345/tyler12345/38867
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="5" channel-id="5" group-title="Comedy",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="8" channel-id="8" group-title="Comedy",TBS
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/38865
-#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="10" channel-id="10" group-title="Comedy",Adult Swim
-http://95.214.232.251:8080/ricky123/ricky123/34545
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="10" channel-id="10",Adult Swim
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29875
 #EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="11" channel-id="11" group-title="Comedy",Adult Swim
 http://pulsestreamstv.uk:8080/tyler12345/tyler12345/38691
 #EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="12" channel-id="12" group-title="Comedy",Adult Swim
 http://95.214.232.251:8080/ricky123/ricky123/34350
-#EXTINF:-1 tvg-id="WTOG.us" tvg-name="CW" tvg-logo="https://static.epg.best/us/WPCW.us.png" tvg-chno="20" channel-id="20" group-title="Favorites",CW
-http://pn.tvott.info:80/307216011400/307216011400/81179
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="FREEFORM" tvg-logo="https://static.epg.best/us/Freeform.us.png" tvg-chno="21" channel-id="21" group-title="Favorites",FREEFORM
-http://pn.tvott.info:80/307216011400/307216011400/81083
-#EXTINF:-1 tvg-id="KCET.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="21" channel-id="21" group-title="Favorites",PBS
-http://pn.tvott.info:80/307216011400/307216011400/81026
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-chno="22" channel-id="22" group-title="Favorites",AMC
-http://pn.tvott.info:80/307216011400/307216011400/81045
-#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="23" channel-id="23" group-title="Favorites",COMET
+#EXTINF:-1 tvg-id="WTOG.us" tvg-name="CW" tvg-logo="https://static.epg.best/us/WPCW.us.png" tvg-chno="20" channel-id="20",CW
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3145
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="FREEFORM" tvg-logo="https://static.epg.best/us/Freeform.us.png" tvg-chno="21" channel-id="21",FREEFORM
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3128
+#EXTINF:-1 tvg-id="KCET.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="21" channel-id="21",PBS
+http://miarea.vip:8080/nena/nena/35501
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-chno="22" channel-id="22",AMC
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3162
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="23" channel-id="23",COMET
 http://pn.tvott.info:80/307216011400/307216011400/81061
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://static.epg.best/us/FX.us.png" tvg-chno="24" channel-id="24" group-title="Favorites",FX
-http://pn.tvott.info:80/307216011400/307216011400/81088
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXM" tvg-logo="https://static.epg.best/us/FXMovieChannel.us.png" tvg-chno="30" channel-id="30" group-title="Favorites",FXM
-http://pn.tvott.info:80/307216011400/307216011400/81090
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" tvg-chno="31" channel-id="31" group-title="Favorites",FXX
-http://pn.tvott.info:80/307216011400/307216011400/81092
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://static.epg.best/us/Hallmark.us.png" tvg-chno="31" channel-id="31" group-title="Favorites",Hallmark
-http://pn.tvott.info:80/307216011400/307216011400/81209
-#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.epg.best/us/HallmarkDrama.us.png" tvg-chno="32" channel-id="32" group-title="Favorites",Hallmark Drama
-http://pn.tvott.info:80/307216011400/307216011400/81208
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://static.epg.best/us/Syfy.us.png" tvg-chno="33" channel-id="33" group-title="Favorites",SYFY
-http://pn.tvott.info:80/307216011400/307216011400/81174
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://static.epg.best/us/SundanceTV.us.png" tvg-chno="34" channel-id="34" group-title="Favorites",Sundance TV
-http://pn.tvott.info:80/307216011400/307216011400/81173
-#EXTINF:-1 tvg-id="ScreenPixWestern.us" tvg-name="SCREENPIX WESTERNS" tvg-logo="https://static.epg.best/us/ScreenPixWestern.us.png" tvg-chno="35" channel-id="35" group-title="Favorites",Starz Encore Westerns
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://static.epg.best/us/FX.us.png" tvg-chno="24" channel-id="24",FX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3127
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" tvg-chno="30" channel-id="30",FXX
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3126
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXM" tvg-logo="https://static.epg.best/us/FXMovieChannel.us.png" tvg-chno="31" channel-id="31",FXM
+http://miarea.vip:8080/nena/nena/626
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://static.epg.best/us/Hallmark.us.png" tvg-chno="31" channel-id="31",Hallmark
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3125
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.epg.best/us/HallmarkDrama.us.png" tvg-chno="32" channel-id="32",Hallmark Drama
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29457
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://static.epg.best/us/Syfy.us.png" tvg-chno="33" channel-id="33",SYFY
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3096
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://static.epg.best/us/SundanceTV.us.png" tvg-chno="34" channel-id="34",Sundance TV
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/29857
+#EXTINF:-1 tvg-id="ScreenPixWestern.us" tvg-name="SCREENPIX WESTERNS" tvg-logo="https://static.epg.best/us/ScreenPixWestern.us.png" tvg-chno="35" channel-id="35",Starz Encore Westerns
 http://pn.tvott.info:80/307216011400/307216011400/81205
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-chno="36" channel-id="36" group-title="Favorites",Disney Channel
-http://pn.tvott.info:80/307216011400/307216011400/81029
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" tvg-chno="37" channel-id="37" group-title="Favorites",Nickelodeon
-http://pn.tvott.info:80/307216011400/307216011400/81032
-#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" tvg-chno="38" channel-id="38" group-title="Favorites",Smithsonian Channel
-http://pn.tvott.info:80/307216011400/307216011400/81168
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING Channel" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" tvg-chno="39" channel-id="39" group-title="Favorites",COOKING Channel
-http://pn.tvott.info:80/307216011400/307216011400/81062
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" tvg-chno="40" channel-id="40" group-title="Favorites",Food Network
-http://pn.tvott.info:80/307216011400/307216011400/81081
-#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" tvg-chno="40" channel-id="40 group-title="Favorites",Destination America
-http://pn.tvott.info:80/307216011400/307216011400/81069
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-chno="36" channel-id="36",Disney Channel
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3142
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" tvg-chno="37" channel-id="37",Nickelodeon
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/30049
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" tvg-chno="38" channel-id="38",Smithsonian Channel
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/49043
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING Channel" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" tvg-chno="39" channel-id="39",COOKING Channel
+http://miarea.vip:8080/nena/nena/35317
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" tvg-chno="40" channel-id="40",Food Network
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3133
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" tvg-chno="40" channel-id="40";Destination America
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/3144
