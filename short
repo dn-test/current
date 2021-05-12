@@ -1,0 +1,43 @@
+#EXTM3U url-tvg="https://epg.best/1a6ef-80te9d.xml.gz" x-tvg-url="https://epg.best/1a6ef-80te9d.xml.gz"
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" tvg-chno="1" channel-id="1",Comedy Central
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65929
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://static.epg.best/us/TBS.us.png" tvg-chno="5" channel-id="5",TBS
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65958
+#EXTINF:-1 tvg-id="AdultSwim.ca" tvg-name="Adult Swim" tvg-logo="https://static.epg.best/ca/AdultSwim.ca.png" tvg-chno="10" channel-id="10",Adult Swim
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/222779
+#EXTINF:-1 tvg-id="WTOG.us" tvg-name="CW" tvg-logo="https://static.epg.best/us/WPCW.us.png" tvg-chno="20" channel-id="20",CW
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65926
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="FREEFORM" tvg-logo="https://static.epg.best/us/Freeform.us.png" tvg-chno="21" channel-id="21",FREEFORM
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65908
+#EXTINF:-1 tvg-id="KCET.us" tvg-name="PBS" tvg-logo="https://static.epg.best/us/PBSWGCU.us.png" tvg-chno="21" channel-id="21",PBS
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65877
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://static.epg.best/us/AMC.us.png" tvg-chno="22" channel-id="22",AMC
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65966
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="COMET" tvg-logo="https://static.epg.best/us/Comet.us.png" tvg-chno="23" channel-id="23",COMET
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250534
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://static.epg.best/us/FX.us.png" tvg-chno="24" channel-id="24",FX
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65907
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://static.epg.best/us/FXX.us.png" tvg-chno="30" channel-id="30",FXX
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65906
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark" tvg-logo="https://static.epg.best/us/Hallmark.us.png" tvg-chno="31" channel-id="31",Hallmark
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65901
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.epg.best/us/HallmarkDrama.us.png" tvg-chno="32" channel-id="32",Hallmark Drama
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250589
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://static.epg.best/us/Syfy.us.png" tvg-chno="33" channel-id="33",SYFY
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65869
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://static.epg.best/us/SundanceTV.us.png" tvg-chno="34" channel-id="34",Sundance TV
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65870
+#EXTINF:-1 tvg-id="ScreenPixWestern.us" tvg-name="SCREENPIX WESTERNS" tvg-logo="https://static.epg.best/us/ScreenPixWestern.us.png" tvg-chno="35" channel-id="35",Starz Encore Westerns
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/223971
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney Channel" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" tvg-chno="36" channel-id="36",Disney Channel
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65920
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" tvg-chno="37" channel-id="37",Nickelodeon
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65881
+#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-name="Smithsonian Channel" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" tvg-chno="38" channel-id="38",Smithsonian Channel
+http://pulselive.uk:8080/vDZbYAnC8X/GZ3fYeeX8H/250659
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING Channel" tvg-logo="https://static.epg.best/us/CookingChannel.us.png" tvg-chno="39" channel-id="39",COOKING Channel
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65928
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" tvg-chno="40" channel-id="40",Food Network
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65912
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://static.epg.best/us/DestinationAmerica.us.png" tvg-chno="40" channel-id="40";Destination America
+http://sdorfijsdfcvx.cabelstream.net:8080/38Mariosuperu3idud/Gjcjcisis229yfgteg6hgbt/65925
